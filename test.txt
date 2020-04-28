@@ -9,3 +9,13 @@ edit 2
 branch1
 
 now some stuff on branch1
+
+branch2
+
+master
+
+branch2
+
+branch2
+
+master
